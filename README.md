@@ -1,2 +1,4 @@
 # IIR-Digital-Filter-Design-Using-Analog-Prototype-in-MATLAB
 In Digital Signal Processing (DSP), most widely used filters are two types IIR (infinite impulse response) and FIR (finite impulse response), in this project IIR filters designed with Bilinear method. Bilinear Transformation method overcomes the aliasing effect and it is best methods for designing IIR digital filters from reference analog filters due to implicitly and similarity of the frequency response of IIR digital filter to that reference analog filters. This method produces true frequency-to-frequency transformation. IIR filters are designed and implemented using MATLAB with frequency transformation in z-domain which feature is not available in traditional MATLAB dsp toolbox.
+Run myFilterDesign.m and select the desired filter 
+Provide the appropriate parameter 1. Passband frequency 2. Stopband frequency 3. Passband attenuation 4. Stopband attenuation 5. Sampling frequency 
